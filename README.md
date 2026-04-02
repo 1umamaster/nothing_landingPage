@@ -25,8 +25,8 @@ Follow these instructions to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/project-name.git](https://github.com/your-username/project-name.git)
-   cd project-name
+   git clone https://github.com/1umamaster/nothing_landingPage.git
+   cd nothing_landingPage
 
 2. **Install dependencies:**
    ```bash
